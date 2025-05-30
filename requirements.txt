@@ -1,0 +1,12 @@
+# Required Python libraries for GPU vs CPU performance comparison
+
+# Numerical computing and GPU acceleration
+numpy>=1.21.0
+numba>=0.56.0
+
+# Plotting and visualization
+matplotlib>=3.4.0
+
+# Optional: for running in notebooks or Colab
+ipython
+notebook
