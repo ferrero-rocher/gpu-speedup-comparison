@@ -7,7 +7,8 @@ This report summarizes the runtime performance comparisons between native Python
 
 ## 🔢 Matrix Multiplication
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/18eae4e8-45ba-4c3b-aee6-b3c2a3282c8c)
+
 
 | Matrix Size | GPU Time (s) | CPU Time (s) |
 |-------------|--------------|--------------|
@@ -23,7 +24,8 @@ In summary, the table compares execution times (in seconds) between GPU-accelera
 
 ## ➕ Vector Addition
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/219404d9-e639-4f18-a5b8-606138fe2932)
+
 
 | Vector Size   | GPU Time (s) | CPU Time (s) |
 |---------------|--------------|--------------|
@@ -38,7 +40,8 @@ In summary, the table compares execution times (in seconds) between GPU-accelera
 ---
 
 ## ➗ Sum Reduction
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/1c883bfd-8386-45ef-9164-b4a6c7f3a790)
+
 
 | List Size     | GPU Time (s) | CPU Time (s) |
 |---------------|--------------|--------------|
