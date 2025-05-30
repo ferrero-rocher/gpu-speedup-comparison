@@ -68,7 +68,7 @@ Detailed tables and insights are available in [gpu_vs_cpu_results.md](gpu_vs_cpu
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/gpu-speedup-comparison.git
+   git clone https://github.com/ferrero-rocher/gpu-speedup-comparison.git
    cd gpu-speedup-comparison
    ```
 
